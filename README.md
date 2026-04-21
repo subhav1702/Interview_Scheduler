@@ -1,3 +1,8 @@
+## Live Demo
+
+Check out the live application here:  
+👉 https://interview-scheduler-zeta.vercel.app/
+
 # Interview Scheduler
 
 A modern, responsive interview scheduling dashboard built with React, TypeScript, and Tailwind CSS.
@@ -15,3 +20,4 @@ A modern, responsive interview scheduling dashboard built with React, TypeScript
 1. Install dependencies: `npm install`
 2. Run development server: `npm run dev`
 3. Build for production: `npm run build`
+
